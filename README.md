@@ -3,3 +3,4 @@ This couse is one of the five couses from Deep-leaning.ai
 - week 1 : Convolutional Neural Networks
 - week 2 : Deep convolutional models: case studies
 - week 3 : Object detection
+- week 4 : Special applications: Face recognition & Neural style transfer
